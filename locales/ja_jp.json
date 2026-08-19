@@ -580,7 +580,7 @@
   "enchantment.kleispack.zephyr": "ゼファー",
   "item.kleispack.blessing": "祝福",
   "item.kleispack.blessing.demeter": "デメテルの祈り",
-  "item.kleispack.blessing.yama": "ヤマの祈り",
+  "item.kleispack.blessing.yama": "山の祈り",
   "item.kleispack.blessing.icarus": "イカロスの哀歌",
   "item.kleispack.blessing.daedalus": "ダイダロスの祈り",
   "item.kleispack.blessing.yamm": "ヤムの祈り",
@@ -878,5 +878,6 @@
   "item.kleispack.nopales": "ノパル",
   "adv.kleispack.adventure.root": "歌とともに",
   "adv.kleispack.adventure.trade_with_cartographer": "忘れ去られた噂",
-  "adv.kleispack.adventure.trade_with_cartographer.desc": "考古学者から地図を買う"
+  "adv.kleispack.adventure.trade_with_cartographer.desc": "考古学者から地図を買う",
+  "adv.kleispack.adventure.obtain_tanakh.desc": "修道院を冒涜する"
 }
