@@ -868,6 +868,7 @@
   "log.kleispack.player_updated": "A new player has been updated",
   "log.kleispack.banish_evil": "Evil has been banished from the surface.",
   "log.kleispack.gamemode_is_now": "Game is now set to",
+  "desc.kleispack.repaired_with": "Repaired with:",
   "item.minecraft.piglin_spawn_egg": "Molasses",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Oil",
