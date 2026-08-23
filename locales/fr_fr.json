@@ -852,7 +852,6 @@
   "item.kleispack.silver_sword": "Épée en argent",
   "item.kleispack.warding_shield": "Bouclier apotropaïque",
   "log.kleispack.now_loaded": "🍵 Matcha Flavoured a été initialisé, version ",
-  "log.kleispack.version_number": "1.12.1",
   "log.kleispack.now_loaded.desc": "Si vous êtes perdu ou confus, ouvrez la page des progrès.",
   "log.kleispack.gamemode_is": "Votre mode de jeu actuel :",
   "log.kleispack.easy": "Facile",
