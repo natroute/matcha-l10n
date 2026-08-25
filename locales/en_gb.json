@@ -875,8 +875,10 @@
   "item.kleispack.ptero_chicken_nugget": "Ptero Chicken Nugget",
   "item.kleispack.tricero_chicken_nugget": "Tricero Chicken Nugget",
   "item.kleispack.nopales": "Nopales",
+  "item.kleispack.oatmeal": "Äppelkaneloatmeal",
   "adv.kleispack.adventure.root": "With Songs",
   "adv.kleispack.adventure.trade_with_cartographer": "Forgotten Rumours",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Buy a map from an Archaeologist",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Desecrate an Abbey"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Desecrate an Abbey",
+  "filled_map.house_of_wisdom": "Karta av akriv"
 }
