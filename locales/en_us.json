@@ -973,5 +973,6 @@
   "adv.kleispack.adventure.root": "With Songs",
   "adv.kleispack.adventure.trade_with_cartographer": "Forgotten Rumours",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Buy a map from an Archaeologist",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Desecrate an Abbey"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Desecrate an Abbey",
+  "filled_map.house_of_wisdom": "Archive Map"
 }
