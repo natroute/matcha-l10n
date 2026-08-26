@@ -779,7 +779,7 @@
   "adv.kleispack.obtain_ruby": "Canto II",
   "adv.kleispack.obtain_ruby.desc": "Pillage the Remnants of Pandaemonium",
   "adv.kleispack.obtain_silver": "The Warding Metal",
-  "adv.kleispack.obtain_silver.desc": "Silver, a once-common Apotropaic Metal is only found naturally-occurring in Mountains. Most deposits are now harboured in Abbeys",
+  "adv.kleispack.obtain_silver.desc": "Silver, a once-common Apotropaic Metal is found most commonly in Mountains. Most deposits are now harboured in Abbeys",
   "adv.kleispack.obtain_smithing_table": "Master Metallurge",
   "adv.kleispack.obtain_smithing_table.desc": "Smithing Tables allow you to modify Base-Metal tools using Alloys",
   "adv.kleispack.obtain_smithing_upgrade": "Upgrades",
@@ -845,5 +845,6 @@
   "filled_map.trial_chambers": "Trial Chamber Map",
   "filled_map.mansion": "Mansion Map",
   "item.minecraft.potion.effect.empty": "Water Bottle",
-  "item.kleispack.tinder": "Tinder"
+  "item.kleispack.tinder": "Tinder",
+  "music.game.abbey": "Vee Vaicekauskas - Abbey"
 }
