@@ -1121,7 +1121,7 @@
   "adv.kleispack.adventure.root": "С Песнями",
   "adv.kleispack.adventure.trade_with_cartographer": "Место отмечено крестом",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Купите карту у археолога",
-  "adv.kleispack.adventure.obtain_tanakh": "Бога нет!",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Оскверните монастырь",
+  "adv.kleispack.with_songs.obtain_tanakh": "Бога нет!",
+  "adv.kleispack.with_songs.obtain_tanakh.desc": "Оскверните монастырь",
   "filled_map.house_of_wisdom": "Карта архива"
 }

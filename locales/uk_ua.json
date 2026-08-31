@@ -1121,7 +1121,7 @@
   "adv.kleispack.adventure.root": "Наша пісня гарна й нова",
   "adv.kleispack.adventure.trade_with_cartographer": "Де ж ті скарби?",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Купи мапу в археолога",
-  "adv.kleispack.adventure.obtain_tanakh": "До монастиря - зі своїм статутом",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Осквернити монастир",
+  "adv.kleispack.with_songs.obtain_tanakh": "До монастиря - зі своїм статутом",
+  "adv.kleispack.with_songs.obtain_tanakh.desc": "Осквернити монастир",
   "filled_map.house_of_wisdom": "Мапа дослідника архіву"
 }

@@ -1119,8 +1119,8 @@
   "adv.kleispack.adventure.root": "Con melodías",
   "adv.kleispack.adventure.trade_with_cartographer": "Rumores olvidados",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Compra un mapa a un arqueólogo",
-  "adv.kleispack.adventure.obtain_tanakh": "De santo, nada",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Profana un monasterio",
+  "adv.kleispack.with_songs.obtain_tanakh": "De santo, nada",
+  "adv.kleispack.with_songs.obtain_tanakh.desc": "Profana un monasterio",
   "filled_map.house_of_wisdom": "Mapa de biblioteca arcaica",
   "filled_map.seminary": "Mapa de academia"
 }
