@@ -862,7 +862,7 @@
   "adv.kleispack.upgrade_mattock": "І швець, і жнець, і на дуді грець",
   "adv.kleispack.upgrade_mattock.desc": "Покращте мотигу-лопату або долабру",
   "adv.kleispack.hell.craft_blessing": "Апокрифи",
-  "adv.kleispack.hell.craft_blessing.desc": "Викрадіть молитви у Мертвеного Бога",
+  "adv.kleispack.hell.craft_blessing.desc": "Викрадіть молитви у давно померлих богів",
   "adv.kleispack.hell.craft_hell_bound_book": "Нечестиве знання",
   "adv.kleispack.hell.craft_hell_bound_book.desc": "Створіть книгу пекельних узів",
   "adv.kleispack.hell.obtain_ancient_debris": "Уламки минулого",
@@ -991,6 +991,10 @@
   "log.kleispack.wandering_trader.kill_early": "Мандрівний крамар втратив ваш маяк з поля зору...",
   "log.kleispack.wandering_trader.summoned": "Мандрівний крамар прибув, він вирушить через 5 хвилин",
   "music.game.abbey": "Vee Vaicekauskas - Abbey",
+  "item.kleispack.amnestic.desc": "Примушує селянина забути, хто він є",
+  "item.kleispack.amnestic.instructions": "Покладіть на землю поряд з ним",
+  "desc.kleispack.melee_blocking": "%s%% Блокування атак ближнього бою",
+  "desc.kleispack.projectile_blocking": "%s%% Блокування снарядів",
   "item.minecraft.piglin_spawn_egg": "Меляса",
   "item.minecraft.hoglin_spawn_egg": "Сейтан",
   "item.minecraft.happy_ghast_spawn_egg": "Олія",
@@ -1123,5 +1127,7 @@
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Купи мапу в археолога",
   "adv.kleispack.with_songs.obtain_tanakh": "До монастиря - зі своїм статутом",
   "adv.kleispack.with_songs.obtain_tanakh.desc": "Осквернити монастир",
-  "filled_map.house_of_wisdom": "Мапа дослідника архіву"
+  "filled_map.house_of_wisdom": "Мапа дослідника архіву",
+  "adv.kleispack.with_songs.kill_gaurdian": "Перша строфа",
+  "adv.kleispack.with_songs.raid_bastion": "Друга строфа"
 }
