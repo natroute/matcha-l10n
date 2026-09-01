@@ -1114,6 +1114,7 @@
   "adv.kleispack.anglers_almanac.sculk_vein.desc": "Um broto das Profundezas Sombrias que se espalha em superfíces como uma escuridão viva e sem respeito nenhum com o espaço pessoal dos outros.",
   "adv.kleispack.anglers_almanac.echo_shard.desc": "Um fragmento misterioso da Cidade Ancestral carregando memórias do que antes era... também deve carregar muito barulho em horas de silêncio.",
   "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "",
+  "adv.kleispack.anglers_almanac.estus_ash.desc": "Mesmo parecendo solúvel, Cinzas de Estus parece se compactar quando colocado na água.",
   "adv.kleispack.anglers_almanac.sulfur_chunk.desc": "Um pedaço que ou significa que você vai explodir em mil pedaços ou vai ser lançado por um gêiser. Ou você está mais perto de fabricar corante verde, não sei.",
   "adv.kleispack.anglers_almanac.goat_horn.desc": "Claramente quando você vai pescar, a primeira que você precisa é de um jeito de fazer um barulho muito alto para afastar tudo que devia estar perto.",
   "item.kleispack.cinnamon_ice_cream": "Sorvete de Canela",
@@ -1125,5 +1126,7 @@
   "adv.kleispack.adventure.trade_with_cartographer": "Boatos Esquecidos",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Compre um Mapa de um Arqueólogo",
   "adv.kleispack.with_songs.obtain_tanakh.desc": "Vandalize um Mosteiro",
-  "filled_map.house_of_wisdom": "Mapa dos Registros"
+  "filled_map.house_of_wisdom": "Mapa dos Registros",
+  "adv.kleispack.with_songs.kill_gaurdian": "Estrofe 1",
+  "adv.kleispack.with_songs.raid_bastion": "Estrofe 2"
 }

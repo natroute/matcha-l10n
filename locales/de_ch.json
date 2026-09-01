@@ -1011,6 +1011,7 @@
   "item.kleispack.bunuelo": "Buñuelo",
   "item.minecraft.ghast_spawn_egg": "Kürbis-Curry-Bouillon",
   "item.kleispack.pumpkin_curry": "Kürbis Curry",
+  "adv.kleispack.cook_pumpkin_curry": "Stärkendi Güeti",
   "adv.kleispack.cook_pumpkin_curry.desc": "Koch e Kürbis Curry",
   "adv.kleispack.anglers_almanac": "Fischer Almanach",
   "adv.kleispack.anglers_almanac.desc": "Entdeck d Fisch, die unseri Welt bewohne",
@@ -1113,7 +1114,9 @@
   "adv.kleispack.anglers_almanac.sculk_vein.desc": "E merkwürdiges Gewächs us em Tüfe Dunkel, dass sich über Oberfläche wie e lebendige Dunkelheit usbreitet, ganz ohni Rücksicht uf persönliche Freiruum.",
   "adv.kleispack.anglers_almanac.echo_shard.desc": "E mysteriösi Scherbe us enere Antike Stätte, welchi Erinnerige devo trait, was sie mol gseh isch ... und au vo einige schlechte Entscheidige.",
   "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "",
-  "adv.kleispack.anglers_almanac.estus_ash.desc": "Obwohl sie löslich z sieh schient, sedimentiert sich Estus-Äsche mit de Zit us de Lösig. Ohni Emulgatore im Wasser bildet sich am Bode irgendwenn e Aschesediment. Warum isch also s Sediment so dünn?",
+  "adv.kleispack.anglers_almanac.estus_ash.desc": "Obwohl sie löslich z sieh schient, sedimentiert sich Estus-Äsche mit de Zit us de Lösig. Ohni Emulgatore im Wasser bildet sich am Bode irgendwenn e Ascheablagerig. Warum isch also d Ablagerig so dünn? ",
+  "adv.kleispack.anglers_almanac.sulfur_chunk.desc": "E Brocke, der entweder bedütet, dass du in Stück gsprengt wirsch oder vo nem Geysir nach obe gschosse wirsch. Oder e Schritt nöcher bisch am Herstelle vo grüenem Farbstoff. Nit ganz klar.",
+  "adv.kleispack.anglers_almanac.goat_horn.desc": "Wells Erschte, dass du bem Fische bruchsch, e luti Möglichkeit isch, allne mitzteile, dass du wieder emol e falsche Fang gmacht hesch.",
   "item.kleispack.cinnamon_ice_cream": "Zimt Glace",
   "item.kleispack.curry_ice_cream": "Curry Glace",
   "item.kleispack.chocolate_ice_cream": "Schocki Glace",
@@ -1123,5 +1126,7 @@
   "adv.kleispack.adventure.trade_with_cartographer": "Vergesseni Grücht",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Kauf e Karte vo nem Archeolog",
   "adv.kleispack.with_songs.obtain_tanakh.desc": "Entweih e Abtei",
-  "filled_map.house_of_wisdom": "Karte zue Archiv"
+  "filled_map.house_of_wisdom": "Karte zue Archiv",
+  "adv.kleispack.with_songs.kill_gaurdian": "Strophe 1",
+  "adv.kleispack.with_songs.raid_bastion": "Strophe 2"
 }
