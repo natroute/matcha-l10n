@@ -931,6 +931,7 @@
   "log.kleispack.minimum_heart_decreased": "Minimum Hearts is now set to %s",
   "desc.kleispack.repaired_with": "Repaired with:",
   "desc.kleispack.throwable": "⚗",
+  "desc.kleispack.entity_interaction_range": " %s",
   "effect.kleispack.regeneration": "❤ Regen (%s)",
   "effect.kleispack.regeneration_2": "❤ Regen II (%s)",
   "effect.kleispack.resistance": "🛡 Resistance (%s)",
