@@ -856,6 +856,8 @@
   "item.kleispack.silver_sword": "은 검",
   "item.kleispack.warding_shield": "수호 방패",
   "log.kleispack.now_loaded": "🍵 말차맛 마인크래프트가 다음 버전으로 갱신됨: ",
+  "log.kleispack.now_loaded.desc": "길을 잃거나 헷갈린다면, 발전 과제를 확인하세요",
+  "log.kleispack.gamemode_is": "현재 게임모드는",
   "log.kleispack.easy": "쉬움",
   "log.kleispack.normal": "보통",
   "log.kleispack.hard": "어려움",
