@@ -1008,6 +1008,8 @@
   "enchantment.kleispack.adamant_armour.set_bonus": "   4",
   "enchantment.kleispack.adamant_weapon": "",
   "item.kleispack.fox_pelt": "여우 가죽",
+  "item.kleispack.trade.bulk_dirt": "흙 대량",
+  "item.kleispack.trade.bulk_dirt.desc": "흙 x64",
   "item.kleispack.hot_honey_wings": "매콤 허니 윙봉",
   "adv.kleispack.anglers_almanac": "낚시꾼의 낙서장",
   "adv.kleispack.anglers_almanac.desc": "이 세계에 서식하는 물고기들을 발견하세요",
