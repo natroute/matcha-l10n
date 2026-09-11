@@ -1039,6 +1039,7 @@
   "item.kleispack.fox_pelt": "Peau de renard",
   "item.kleispack.trade.bulk_dirt": "Terre en gros",
   "item.kleispack.trade.bulk_dirt.desc": "Terre ×64",
+  "desc.kleispack.knockback_attribute": " %s",
   "item.kleispack.hot_honey_wings": "Ailes de poulet au miel épicé",
   "adv.kleispack.anglers_almanac": "L'almanach du pêcheur",
   "adv.kleispack.anglers_almanac.desc": "Découvrez les poissons qui peuplent ce monde",

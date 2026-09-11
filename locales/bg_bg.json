@@ -845,6 +845,7 @@
   "item.kleispack.fox_pelt": "Лисича кожа",
   "item.kleispack.trade.bulk_dirt": "Насипна пръст",
   "item.kleispack.trade.bulk_dirt.desc": "x64 Пръст",
+  "desc.kleispack.knockback_attribute": " %s",
   "item.kleispack.hot_honey_wings": "Пикантни крилца с мед",
   "adv.kleispack.anglers_almanac": "Алманахът на рибаря",
   "adv.kleispack.anglers_almanac.desc": "Открий рибите, обитаващи този свят",
