@@ -1162,5 +1162,17 @@
   "filled_map.house_of_wisdom": "Mapa de biblioteca arcaica",
   "filled_map.seminary": "Mapa de academia",
   "adv.kleispack.with_songs.kill_gaurdian": "Estrofa I",
-  "adv.kleispack.with_songs.raid_bastion": "Estrofa II"
+  "adv.kleispack.with_songs.raid_bastion": "Estrofa II",
+  "entity.minecraft.wandering_trader": "Comerciante ambulante",
+  "item.minecraft.wandering_trader_spawn_egg": "Generar comerciante ambulante",
+  "subtitles.entity.wandering_trader.ambient": "Comerciante ambulante murmura",
+  "subtitles.entity.wandering_trader.death": "Comerciante ambulante muere",
+  "subtitles.entity.wandering_trader.disappeared": "Comerciante ambulante desaparece",
+  "subtitles.entity.wandering_trader.drink_milk": "Comerciante ambulante bebe leche",
+  "subtitles.entity.wandering_trader.drink_potion": "Comerciante ambulante bebe una poción",
+  "subtitles.entity.wandering_trader.hurt": "Comerciante ambulante herido",
+  "subtitles.entity.wandering_trader.no": "Comerciante ambulante rechaza",
+  "subtitles.entity.wandering_trader.reappeared": "Comerciante ambulante aparece",
+  "subtitles.entity.wandering_trader.trade": "Comerciante ambulante comercia",
+  "subtitles.entity.wandering_trader.yes": "Comerciante ambulante acepta"
 }
