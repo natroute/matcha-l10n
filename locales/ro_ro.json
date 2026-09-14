@@ -997,6 +997,8 @@
   "item.kleispack.lapis_earrings": "Cercei de lapis",
   "item.kleispack.nazar_circlet": "Diademă cu nazar",
   "desc.kleispack.knockback_attribute": " %s",
+  "effect.kleispack.speed": " +20%% (%s)",
+  "effect.kleispack.speed_2": " +40%% (%s)",
   "adv.kleispack.anglers_almanac": "Almanahul pescarului",
   "adv.kleispack.anglers_almanac.desc": "Învață mai multe despre peștii care ocupă această lume",
   "adv.kleispack.anglers_almanac.category.freshwater.cold": "Apă dulce rece",
