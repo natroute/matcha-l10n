@@ -1047,7 +1047,7 @@
   "desc.kleispack.knockback_attribute": " %s",
   "effect.kleispack.speed": " +20%% (%s)",
   "effect.kleispack.speed_2": " +40%% (%s)",
-  "error.kleispack.wither_spawn_invalid": "El Wither solo puede ser invocado sobre la faz de la superficie",
+  "error.kleispack.wither_spawn_invalid": "El Wither solo puede ser invocado en la superficie del mundo",
   "item.minecraft.vindicator_spawn_egg": "Diamante crudo",
   "adv.kleispack.anglers_almanac": "Almanaque del pescador",
   "adv.kleispack.anglers_almanac.desc": "Descubrí los peces que habitan este mundo",
