@@ -907,7 +907,7 @@
   "filled_map.shipwreck": "Shipbreach Draft",
   "item.kleispack.silver_sword": "Silver Sword",
   "item.kleispack.warding_shield": "Warding Shield",
-  "log.kleispack.now_loaded": " Matcha Flavoured is now loaded on version %s ",
+  "log.kleispack.now_loaded": " Matcha Flavoured is now loaded on version %s",
   "log.kleispack.now_loaded.desc": "If you get lost or addled, follow the furtherings",
   "log.kleispack.gamemode_is": "Your gamewise is",
   "log.kleispack.easy": "Eath",
