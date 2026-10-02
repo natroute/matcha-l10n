@@ -1077,7 +1077,7 @@
   "adv.kleispack.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.kleispack.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐",
-  "adv.kleispack.anglers_almanac.chance": "上钩概率：%s",
+  "adv.kleispack.anglers_almanac.chance": "上钩概率 %s",
   "adv.kleispack.anglers_almanac.only_in": "仅出现在：",
   "adv.kleispack.anglers_almanac.humpback_whitefish.desc": "一条背上鼓着驼峰的冷水鱼，完全没有搬去暖和地方的打算。",
   "adv.kleispack.anglers_almanac.alaska_blackfish.desc": "一条小小的阿拉斯加幸存者，把冰点温度当成一点小麻烦。",
